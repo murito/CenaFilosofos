@@ -290,7 +290,7 @@ public final class Escenario extends javax.swing.JPanel {
 
         pensando2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pensando.png"))); // NOI18N
         jLayeredPane1.add(pensando2);
-        pensando2.setBounds(350, 440, 110, 34);
+        pensando2.setBounds(350, 420, 110, 34);
 
         pensando3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pensando.png"))); // NOI18N
         jLayeredPane1.add(pensando3);
